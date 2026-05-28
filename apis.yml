@@ -1,0 +1,32 @@
+aid: iseven-humor
+name: isEven (humor)
+description: "Check if a number is even"
+url: https://isevenapi.xyz/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: isEven (humor)
+    description: "Check if a number is even"
+    humanURL: https://isevenapi.xyz/
+    baseURL: https://isevenapi.xyz/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://isevenapi.xyz/
+common:
+  - type: Website
+    url: https://isevenapi.xyz/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
