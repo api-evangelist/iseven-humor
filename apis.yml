@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://isevenapi.xyz/
 common:
+  - type: DomainSecurity
+    url: security/iseven-humor-domain-security.yml
   - type: Website
     url: https://isevenapi.xyz/
   - type: PublicAPIsListing
