@@ -40,7 +40,8 @@ apis:
   - name: isEven (humor)
     description: "Check if a number is even"
     humanURL: https://isevenapi.xyz/
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
